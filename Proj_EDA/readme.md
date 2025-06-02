@@ -1,4 +1,3 @@
----
 
 # 📈 Layoffs Data: Exploratory Data Analysis (EDA) with SQL
 
